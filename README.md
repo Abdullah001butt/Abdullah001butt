@@ -34,3 +34,5 @@
 #Most Used Languages
 
 ![Abdullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+https://github-trophies.vercel.app/?username=Abdullah001butt&theme=radical&no-frame=false&no-bg=false&margin-w=4
