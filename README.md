@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anasbutt2014@gmail.com**
 
-- 📄 Know about my experiences [1 year ago i started my courier on full stack mern developer in future i want to work as an software engineer in post of C#](1 year ago i started my courier on full stack mern developer in future i want to work as an software engineer in post of C#)
+- 📄 Know about my experiences [1 year ago i started my courier on full stack mern developer in future i want to work as an software engineer in post of C#](1 year ago i started my career on full stack mern developer in future i want to work as an software engineer in post of C#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
