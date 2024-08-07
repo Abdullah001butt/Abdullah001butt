@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name is Abdullah i am junior MERN stack developer</h1>
 <h3 align="center">A passionate full stack mern developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Twitter**
-
 - 🌱 I’m currently learning **React.js and C# with .NET**
 
 - 💬 Ask me about **i can work on mern and .net**
